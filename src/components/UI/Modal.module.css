@@ -1,4 +1,3 @@
-
 .backdrop {
   position: fixed;
   top: 0;
@@ -12,7 +11,7 @@
 .modal {
   overflow: scroll;
   position: fixed;
-  height: 34rem;
+  max-height: 34rem;
   top: 15vh;
   left: 5%;
   width: 90%;
